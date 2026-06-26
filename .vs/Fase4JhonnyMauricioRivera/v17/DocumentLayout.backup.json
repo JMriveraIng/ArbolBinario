@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A464FF8A-944C-491B-A48F-4B0BF91C0406}|Fase4JhonnyMauricioRivera.csproj|d:\\documents\\unad\\estructura de datos\\2024\\fase4jhonnymauriciorivera\\escenario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A464FF8A-944C-491B-A48F-4B0BF91C0406}|Fase4JhonnyMauricioRivera.csproj|solutionrelative:escenario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A464FF8A-944C-491B-A48F-4B0BF91C0406}|Fase4JhonnyMauricioRivera.csproj|d:\\documents\\unad\\estructura de datos\\2024\\fase4jhonnymauriciorivera\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A464FF8A-944C-491B-A48F-4B0BF91C0406}|Fase4JhonnyMauricioRivera.csproj|solutionrelative:ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A464FF8A-944C-491B-A48F-4B0BF91C0406}|Fase4JhonnyMauricioRivera.csproj|d:\\documents\\unad\\estructura de datos\\2024\\fase4jhonnymauriciorivera\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A464FF8A-944C-491B-A48F-4B0BF91C0406}|Fase4JhonnyMauricioRivera.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Escenario1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\Escenario1.cs",
+              "RelativeDocumentMoniker": "Escenario1.cs",
+              "ToolTip": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\Escenario1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Escenario1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T03:31:00.803Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\MenuPrincipal.cs",
+              "RelativeToolTip": "MenuPrincipal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:08:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingreso.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Ingreso.cs",
+              "ToolTip": "D:\\Documents\\UNAD\\Estructura de Datos\\2024\\Fase4JhonnyMauricioRivera\\Ingreso.cs",
+              "RelativeToolTip": "Ingreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:00:22.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
